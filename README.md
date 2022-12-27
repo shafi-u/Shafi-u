@@ -4,7 +4,7 @@
 🧔🏾‍♂️️ &nbsp;I’m Shafiudeen and I'm excited to share my work with you!\
 👀 &nbsp;Interested in a career as a Cloud Engineer and Web Development.\
 🌴 &nbsp;Currently learning the fundamental skills required for Cloud Computing through Azure.\
-🔭 &nbsp;My goal is to improve my professional skills while working on Azure projects and Web Development.\
+🔭 &nbsp;My goal is to improve my professional skills while working on Azure and Web Development projects.\
 🧪 &nbsp;Like challenging myself to effectively improve my technical skills and grow as an individual.
 
 ### 📜 &nbsp; Certifications
