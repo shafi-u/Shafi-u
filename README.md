@@ -2,8 +2,8 @@
 
 <br/>
 
-🧔🏾‍♂️️ &nbsp;I’m Shafiudeen and I'm excited to share my work with you!\
-👀 &nbsp;Interested in Cloud computing and Web Development.\
+🧔🏾‍♂️️ &nbsp;I’m Shafiudeen and I'm excited to share with you!\
+👀 &nbsp;Interested in cloud computing and web development.\
 🌴 &nbsp;Currently expanding my knowledge in cloud technologies such as Azure.\
 🔭 &nbsp;My goal is to improve my professional and technical skills for a career in cloud\
 🧪 &nbsp;I Like challenging myself to keep learning and stay up to date with the latest developments in the field.
