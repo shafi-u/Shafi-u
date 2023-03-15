@@ -1,4 +1,5 @@
-## Hey there! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20px"> 
+## Hey there! <span class="wave">👋🏾</span>
+
 
 <br/>
 
